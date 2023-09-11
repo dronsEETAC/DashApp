@@ -1,4 +1,4 @@
-# dash-webapp
+# DashApp
 
 ## Project setup
 ```

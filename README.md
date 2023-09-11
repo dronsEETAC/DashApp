@@ -50,13 +50,13 @@ You can experience a demonstration of the DashApp by simply clicking on the foll
 
 In the demonstration video, we follow a series of steps to showcase the functionality of the system. Here's a breakdown of the steps and what each of them entails:
 
-1. **Connect to MQTT Broker and On-Module Services:**
+1. **Connect to MQTT Broker and on-module services:**
 Initially, we establish a connection to the MQTT broker and on-module services. This connection is essential for communication between the components of the system.
   
  ![image](https://github.com/JaskiratSingh377/DashApp/assets/80628754/39141a91-666b-466c-9579-8ca39bf172c5)
  
 
-2. **Preliminary Page with Slides:**
+2. **Preliminary page with slides:**
 Once successfully connected, the app shows up with a preliminary page that presents several slides. These slides serve as a menu, allowing us to choose different apps available on the page within **(As per today, only DashApp is available to use)**.
 
 ![image](https://github.com/JaskiratSingh377/DashApp/assets/80628754/c71b0383-2012-4c30-baa4-eb00e29ce1e1)
@@ -67,13 +67,13 @@ Then we finally enter the DashApp, where the main drone control and monitoring i
   
 ![image](https://github.com/JaskiratSingh377/DashApp/assets/80628754/45a98837-9cc6-4c67-af02-390924344009)
 
-4. **Adjust Drone Flight Parameters:**
+4. **Adjust drone Flight Parameters:**
 Within the DashApp, we access settings to modify the drone's flight parameters. This includes changing attributes such as take-off altitude and ground speed. After making these adjustments, we perform another drone flight to verify that the changes have been implemented correctly and that no unwanted issues arise.
 
-5. **Create and Test Polygonal Fence:**
+5. **Create and test Polygonal Fence:**
 Moving on, we demonstrate the capability to create a polygonal fence. This fence is a virtual boundary that defines the area within which the drone can operate. We create the fence and then test its functionality to ensure that it restricts the drone's movement appropriately.
 
-6. **Wait for Drone to Be ON EARTH State:**
+6. **Wait for Drone to be ON EARTH state:**
 In order to try all the functionalities, we wait for the drone to reach the "ON EARTH" state to progress with the Mission Planning execution. This state indicates that the drone is safely landed and ready for further actions. It's an important prerequisite for mission planning and ensures the drone is grounded before proceeding.
 
 7. **Mission Planning:**
